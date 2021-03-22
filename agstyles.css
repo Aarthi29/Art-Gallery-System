@@ -1,0 +1,32 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;
+    background:url('a.jpg');
+    font-family: 'normal';
+    font-size:20px;  
+}  
+.login{  
+        width: 300px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 50 0 0 40;  
+        padding-top: 20px;
+        padding-right: 50px;
+        padding-bottom: 60px;
+        padding-left: 100px;  
+        background:  #d7b38c ;
+        border-radius: 15px ;  
+         
+}  
+h2{  
+    text-align: center;  
+    color: black;
+
+    padding: 10px;  
+}  
+label{
+    color: white;  
+    font-size: 17px;  
+    font-weight:bold;
+}  
